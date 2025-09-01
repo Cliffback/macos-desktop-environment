@@ -7,11 +7,17 @@ My desktop environment configuration
 - Aerospace as a tiling manager
 - Only shows active and focused workspaces (a bit buggy)
 - Both compact and normal mode with a GUI toggle
+- Aerospace scratchpad
 
 My sketchybar configuratuon is based on [Simple Catppuccin](https://github.com/FelixKratz/SketchyBar/discussions/47?sort=top#discussioncomment-3069564) by [Tnixc](https://github.com/Tnixc) with added plugins for monitoring temperatures.
 
 I made the temperature reading tool tool based on a few different sources, and it can be found here: [macos-temp-tool](https://github.com/Cliffback/macos-temp-tool). It is created specifially for for arm64 / Apple Silicone Macs.
 
+Requires:
+- Sketchybar
+- Jankyborders
+- Aerospace
+- Aerospace-scratchpad
 
 
 https://github.com/user-attachments/assets/0e20d467-92dc-43a4-bfab-04eafcac8561
